@@ -1,0 +1,23 @@
+{
+  "name": "rendr-coffee-gulp",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "mgoldchild <mgoldchild@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "material-design-lite": "^1.1.3",
+    "jquery": "1.9.1"
+  }
+}

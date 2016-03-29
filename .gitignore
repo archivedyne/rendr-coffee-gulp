@@ -1,0 +1,7 @@
+*.log
+node_modules
+bower_components
+.editorconfig
+compiledTemplates.js
+*.min.js
+*.min.css
